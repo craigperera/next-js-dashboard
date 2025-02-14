@@ -4,7 +4,6 @@ import { Suspense } from "react";
 import {
   RevenueChartSkeleton,
   LatestInvoicesSkeleton,
-  CardSkeleton,
   CardsSkeleton,
 } from "@/app/ui/skeletons";
 import LatestInvoices from "@/app/ui/dashboard/latest-invoices";
